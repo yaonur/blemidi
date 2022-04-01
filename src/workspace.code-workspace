@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "espblackboard",
+      "path": "../../espblackboard"
+    },
+    {
+      "name": "blemidiNode",
+      "path": "../../blemidiNode"
+    }
+  ],
+  "settings": {}
+}
